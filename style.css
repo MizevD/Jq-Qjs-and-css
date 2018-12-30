@@ -1,0 +1,17 @@
+div {
+ border-style : solid;
+ border-color: green ;
+ border-size: 80pt;
+}
+.cl1 {
+	color: red;
+}
+
+.cl2 {
+	text-shadow: 5px 5px 20px black;
+}
+
+.cl3 {
+	font-size: 72pt;
+
+}
